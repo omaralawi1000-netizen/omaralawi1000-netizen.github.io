@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.aven.android",
+      "sha256_cert_fingerprints": ["DE:B8:4A:62:98:75:5C:A8:08:26:6B:6E:4F:99:12:AD:9F:A8:0E:9A:30:F0:A8:C5:CB:0C:59:F2:1A:4C:C2:0A"]
+    }
+  }
+]
